@@ -45,6 +45,10 @@ $ npm install
 $ npm run gulp
 ```
 
+Functional Review
+------------------
+To test a pull-request, please use http://qem.io for functional review!
+
 [Behat](http://behat.org) scenarios
 -----------------------------------
 
